@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_74f0b01e32e1f55b28ae907e692e3a51828956c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\e1236f96ec3ff81c1a7f5f21a5745cff6d9e0db4\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_06b597cea65c95a27a8f43795e3d534497637c4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\c3dad9e3218224587d001080e724a4b25545f6eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a2ddec344c7708c1f479e34d030c0e3e1d3d3c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\ebb93f253d617b6b9af4c0b31be4f7b2c8169fd2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e15f954b32db424151ea01155cf4683acd7ee25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\09b574baf2f65ddc78100274cabeed548fde3995\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_006d0fa447c2873b54fa17ea4c438e1c8efbb6b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\a2ed329e06bd6338b7cdc1463c0ebea1bb9f85d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_231ec712606ee0d562624f6c0622468e2af92d1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\6ca4f9147898e86148614743f77df8b566294af0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb39ed1857b8584c18c2922d33e27fdc5ed23ff5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\fd8f929e5f4fc65d122d6adec475ae69d3479d31\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc02d3aba0be5159c91c401360f353fa51867ee2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\19179aa2363536bdcb5ef1dd0afea5d13789b02f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86449b6323f964732f7515098f9d933794d6122f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\85524d7b2451fa09f166e2244dc8abd6734aaaad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b6f1a2f700c57e166707c1995780993f45976da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\17b1a1b6c164537b10af98a48cc175b083c6e11d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2353dd87f20be39786bcea6a520123ed0407d866\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\cbd401d6eb2eea28ad3012bc63957f275f324f9b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_404c5a743fab48259e636376fa83ebe385c31688\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\64c64b329bc9e43931dee0657c8b64504e6b1e4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0c1cc09cc4378774b169c80387d5414f4983ad4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\69b1ee959fa6a3fa636d4fade6bfce7652055567\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a40d199b7f485bdd5b9c1feddda5ff3146d266d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\d5247c579c8560e13b61ff19e3723bdb056e1c96\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63fea6a48accb5423b3fa76221eb61ca76bc2c52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\4ea9d062a1287214acedb7e1a4c02d4930cb56c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b52f2dc1be0b1826c079aba0b3bb3cb05dc3ce7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\67cfea3163afcf0ec98783a731616ab7a46cf8c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e92ba229810225cb144798dbac91679cf6e6d609\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\05c0fb07f241cc1fa130650a92085c340ffbdf87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ced2a2bd5d43ccc95e4c3e79cac6ec9071418496\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\c8b10109da18701fe90e32314f7d817463beadd0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73536fc83cb467d44e1bd41711dbe32c102908cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\796e6c9e8a592a012c34106d0c4bc870649685f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7aa98077762a0dedef16e02bd193f6e164cfeb79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\b0da45afae381a8f3786fbb6ef1c22c890cba5c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5941e06d436d31769abb52065ba492ddc277f85d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\876efc8bec8b9f1c21f49e44c0e0279edf501a7a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_38372c41a803cae88c9e153b53cdbdcb64c58494\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\c60ed79edb1874f5b9ddea591de8e32b0f96cf56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8bb2226b9f5de74a1b7cbc72f1d0d4386ae61cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\libs\dagger-1.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\dagger-1.2.2_39abe0e856004c9ab80909c2dced49afb15f43d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\a20d1e79bae96282c4ad6ae805af83a76d9282e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_48a93d5b6d375ba56bdf43a9e09cff7bea922396\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\33d7b3d3560d84ca140a25c83e97b647ed6f2306\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4716033ab1a8686d704c7121f5bdfc6a20f2afc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\6b5ab911815ccfb3cb315b64ea4f1c6729adff64\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3bdd85011abff58e5cf5ef98f4eb6ff5dfe99fd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\375905401b644f96e519494f5d82b890854a646b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe8b4accb091f816ee0abe0fb9a67284f45879ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\3c5a661b903fc93f25ad82339159226aa95dac3b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7be73a55c5c2b8fe4c43cdc92ac6abe70139b905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\eeb5d873a558b5301b309d3368e2d270110ee09b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01bcef575fbb2cce5715b127ccb233ea7cfa70f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\3c293f9ca0f6a1e688f3e166ab02bd7f467b3c15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f86403afd6c7e16ea8e85f231ebd9b58a0bdf56f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\d182f2a7b9c7e10a4f6841cccf2b911f20865ec7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_784f86f8dce35d4c77a49c586e24dd8bbafe7392\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\909e280f5ac82faa4b95804baf375137298d195e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d279ce92e72384c8089d1d81dc66c3082ef1d3f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\8e0029cae6f68c8b2308fed4a1cb673d4f7207d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_640023c629b04ef09d3ac2c437f5c03481c24c6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\ce8792423995d91c723242ead43eb653f4e8df46\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8382f54d1dba3aee1146a20852a3bb5fe6cc2f02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\6ab02bb1088b478f9ea4a6cdcd954afdf42aaf76\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ec759a43530005e64200a6e5be936e379d2e888\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e8da736e291a3961bbf3aa7394d2c21dadc1321e">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cb595c5649937ac1fa1c9121703fb3ef60c0f892\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\libs\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\javax.inject-1_55ea7caa636ded29128a8754078007e537fa1857\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\libs\support-v4-19.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\support-v4-19.0.1_27f1da754cac7237029b2942541aff139e0db6b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\d297c661d69d0c26feba359dec79db192ab20002\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c055aa2234abcd39a08b4f242ec0c17a57e3c5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\342949738b040dbeae66cfa5fcb55a967a925881\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc55d879f8494c5395e73064e1b879d563f798bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\995c58c5b13eac925e16fe3dc016210f49b2e64e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a2f62ed81071630486a3b289da168d2c0fafcda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\0630a5914791e25df89accb61c558a91f3376ae4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_968da23914a9e9183d8ab5bbf3ec8b689d2a95a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\110885a77e3f3e86b37385a84aba6101179a1e96\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_870729ce4b1e88c5037a6d558e3036ec0d659c57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\3fb1842153dfb5b20751f8c310d9076c1b6e3334\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57818b6050cd9359427bd5a55e59ad3ffaa7a67e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\dbbeeafaed280d97669bcc3628f962f624f522e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4456172ff428621f88d1f7f5d9ec0d377ff94a55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\f549f2a5379fcf1b38f8e6aefa9758c347d14509\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6099243effa224ade8149a0cdd20bdf408da84d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\46a2980fc105ed724c76bb194997bd7483de0964\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82691c0cc9933688aa265d457cc31fe0c55c07f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\5f698f502fda3d2562b6e1a8dae3984d2f150b5d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73b3121bdf8066ead56dc3aed0b35ea73e10cf23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\24577d8f4d3d3efaa0d2dcb965ca7e03889e8770\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bda28628c2abd67c31f680e62a6bb594d67fb87b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_6a97b7dd1b85977311e8c5be74a1bdef770f0abc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\1c8a445006e5573a18e482eaf8f505aa2a70a9ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab6f2db9a796bcfc92ce199df4b9b8c4fd60f5cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\b04a8918014c337cb378fc6b3269ba1ddd979c14\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d22d653d65fa9b68d56e863650e114321441666\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\e1236f96ec3ff81c1a7f5f21a5745cff6d9e0db4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89d5b6227ad2bd0b250277984f8e61084b27144f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\90061c650aa10b06c6f2a2a57c8df72ce7e3a416\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4886cd4a82bc3a3b7ceeb03038cf0640358cf0f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\6b02d3b0fd657e336399c014f38dda1b5fed1498\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9468b6555ff8d3842a9b01890a637e7276f182b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\3e786231dc62541d0e47ecfd87ff8623e95b7d7e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_210f299d985db38d7b8e65791c0862242e4bff9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\bd13a1b0d2d48e560c408a28a5e16d6168650213\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce48de41428f5d39a5cde5cae3a294ff640d8b81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\9c85b44e92a6a3258f481496ac37fb83d9f070de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64a0a10805c478c33528e4245c422fb25d0990bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\460cd11613d49e12e3a9f24bb79c597aaa0b4918\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="F:\My projects\codecanyon-19707626-sky-bird-game-android-buildbox-game-with-admob\android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_37b1d788c6e4d93dcf78d5eea84b60a17857c906\classes.dex" />
+    </item>
+
+</items>
